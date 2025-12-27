@@ -1,0 +1,21 @@
+company,report_year,indicator_name,value,unit,confidence,source_page,source_section,notes
+AIB Group plc,2024,Avg Payment Period to Suppliers,,days,0.5,"80, 94, 113, 114",Sustainability,Not found
+AIB Group plc,2024,Board Female Representation,40,%,1.0,"53, 93, 94",Governance Report,Women as % of Board 40% Target: 40%
+AIB Group plc,2024,Board Meetings,,count/year,0.5,"53, 54, 76, 93, 100",Sustainability,Not found
+AIB Group plc,2024,Collective Bargaining Coverage,,%,0.5,"62, 80, 94, 112",Sustainability,Not found
+AIB Group plc,2024,Corruption Incidents,0,count,1.0,"105, 112, 117",Incidents of corruption and bribery G1-4,There were 0 confirmed incidents in which we dismissed or disciplined our own workers for corruption or bribery incidents and 0 confirmed incidents where we terminated or did not renew contracts with business partners that were terminated or not renewed due to corruption or bribery violations.
+AIB Group plc,2024,Employee Turnover Rate,12.6,%,1.0,"94, 96, 112",Table 3: Employee turnover data,Rate of employee turnover2 12.6%
+AIB Group plc,2024,Female Employees,23,%,1.0,"53, 94, 96",Family leave,"In 2024, 100% of AIB employees are entitled to take family-related leave, with 19% doing so (23% of females and 13% of males)."
+AIB Group plc,2024,GHG Emissions Intensity,,tCO₂e per €M revenue,0.5,"75, 76",Sustainability,Not found
+AIB Group plc,2024,Gender Pay Gap,17.8,%,1.0,"53, 94, 96",Gender Pay Gap Report S1-16,"Our annual GPG report for AIB ROI, based on our snapshot date of 30 June 2024, shows a mean GPG of 17.8%."
+AIB Group plc,2024,Green Financing Volume,,€ millions,0.5,"66, 67, 74, 80, 83",Sustainability,Not found
+AIB Group plc,2024,Net Zero Target Year,,year,0.5,"68, 76, 77, 79",Sustainability,Not found
+AIB Group plc,2024,Renewable Energy Percentage,84,%,1.0,"77, 78, 79",Context,"In 2024, 84% of AIB’s own electrical energy needs was produced from these solar farms."
+AIB Group plc,2024,Suppliers Screened for ESG,,%,0.5,"113, 114",Sustainability,Not found
+AIB Group plc,2024,Total Employees,,FTE,0.5,"83, 94, 96, 112",Sustainability,Not found
+AIB Group plc,2024,Total Energy Consumption,33028,MWh,1.0,"78, 80, 81",Energy consumption and mix,"Total energy consumption (MWh) (calculated as the sum of lines 6, 7 and 11) 37,323 33,028"
+AIB Group plc,2024,Total Scope 1 GHG Emissions,2875,tCO₂e,1.0,"79, 80, 81","Table 1: Breakdown of AIB Group Scope 1, 2 & 3 and total GHG emissions","Gross Scope 1 GHG emissions (tCO2e) 4,784 2,886 2,875 0 %"
+AIB Group plc,2024,Total Scope 2 GHG Emissions,813,tCO₂e,1.0,"79, 80, 81","Table 1: Breakdown of AIB Group Scope 1, 2 & 3 and total GHG emissions",Gross market-based Scope 2 GHG emissions (tCO2e) 64 536 813 52 %
+AIB Group plc,2024,Total Scope 3 GHG Emissions,1067519,tCO₂e,1.0,"79, 80, 81","Table 1: Breakdown of AIB Group Scope 1, 2 & 3 and total GHG emissions","Total gross indirect (Scope 3) GHG emissions (tCO2e) 2,570,000 813,528 1,067,519 31 %"
+AIB Group plc,2024,Training Hours per Employee,31,hours,1.0,"95, 96, 112",Annual Review Business Review Sustainability Reporting Governance Report Risk Management Financial Statements General Information AIB Group plc Annual Financial Report 2024,Average training hours per employee 2024 Female 32 Male 29 All 31
+AIB Group plc,2024,Work-Related Accidents,,count,0.5,"94, 96, 112, 117",Sustainability Reporting,"Number of fatalities and number and rate of work-related accidents N/A N/A SFDR, BR S1-14, 88 (e)"

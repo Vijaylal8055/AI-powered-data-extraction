@@ -1,0 +1,21 @@
+company,report_year,indicator_name,value,unit,confidence,source_page,source_section,notes
+BBVA,2024,Avg Payment Period to Suppliers,,days,0.5,"331, 364, 385, 387",Sustainability,Not found
+BBVA,2024,Board Female Representation,46.7,%,1.0,"307, 385, 392",Gender diversity metrics,Women in the Board of Directors 46.7
+BBVA,2024,Board Meetings,,count/year,0.5,"307, 358, 377, 385",Sustainability,Not found
+BBVA,2024,Collective Bargaining Coverage,43,%,1.0,"385, 393, 394",COLLECTIVE BARGAINING COVERAGE AND SOCIAL DIALOGUE (BBVA GROUP),"At the Group, 43% of workers are subject to the provisions of the various collective agreements and conventions (described in the second and third points of the previous regulatory scheme), while the remaining 57% are subject to the conditions agreed with the workers themselves."
+BBVA,2024,Corruption Incidents,,count,0.5,"285, 313, 315, 358, 396",Sustainability,Not found
+BBVA,2024,Employee Turnover Rate,11.5,%,1.0,"375, 404, 405",TOTAL TURNOVER RATE AND DISTRIBUTION BY GENDER (BBVA GROUP. PERCENTAGE %),Total 11.5 11.8 11.3 11.8 11.7 11.9
+BBVA,2024,Female Employees,,%,0.5,"375, 387, 398, 399",Sustainability,Not found
+BBVA,2024,GHG Emissions Intensity,,tCO₂e per €M revenue,0.5,"320, 321, 326, 353",Sustainability,Not found
+BBVA,2024,Gender Pay Gap,28.3,%,1.0,"386, 387, 388",Gross pay gap,"The gross gender pay gap at BBVA Group73 for 2024 is as follows: GROSS PAY GAP (BBVA GROUP, PERCENTAGE %) 2024 BBVA Group (Average) 28.3"
+BBVA,2024,Green Financing Volume,,€ millions,0.5,"294, 295, 296, 331, 353",Sustainability,Not found
+BBVA,2024,Net Zero Target Year,,year,0.5,"319, 320, 322, 332",Sustainability,Not found
+BBVA,2024,Renewable Energy Percentage,90,%,1.0,"320, 322, 326, 354, 358",ENERGY CONSUMPTION AND MIX (BBVA GROUP),Share of renewable sources in total energy consumption (%) 89 % 90 %
+BBVA,2024,Suppliers Screened for ESG,,%,0.5,"298, 312, 313, 348, 358",Sustainability,Not found
+BBVA,2024,Total Employees,,FTE,0.5,"358, 370, 375, 398, 402",Sustainability,Not found
+BBVA,2024,Total Energy Consumption,707582,MWh,1.0,"320, 354, 358, 370",ENERGY CONSUMPTION AND MIX (BBVA GROUP),"Total energy consumption (MWh) 678,266 707,582"
+BBVA,2024,Total Scope 1 GHG Emissions,41,tCO₂e,1.0,"320, 353, 355","GHG EMISSIONS BROKEN DOWN BY SCOPE 1, 2 AND 3 (EXCEPT FINANCED EMISSIONS) (BBVA GROUP)","Gross scope 1 GHG emissions (tCO2eq) 62,672 39,859 41,856 5 % n.a. n.a. n.a."
+BBVA,2024,Total Scope 2 GHG Emissions,193690,tCO₂e,1.0,"320, 353, 355","GHG EMISSIONS BROKEN DOWN BY SCOPE 1, 2 AND 3 (EXCEPT FINANCED EMISSIONS) (BBVA GROUP)","Gross location-based Scope 2 GHG emissions (tCO2eq) n.a. 193,690 198,679 3 % n.a. n.a. n.a."
+BBVA,2024,Total Scope 3 GHG Emissions,1346681,tCO₂e,1.0,"320, 353, 355","GHG EMISSIONS BROKEN DOWN BY SCOPE 1, 2 AND 3 (EXCEPT FINANCED EMISSIONS) (BBVA GROUP)","Total Gross indirect (Scope 3) GHG emissions (tCO2eq) n.a. 1,452,294 1,346,681 (7) %"
+BBVA,2024,Training Hours per Employee,53.4,hours,1.0,"380, 381, 382",BASIC TRAINING DATA (BBVA GROUP),Hours of training per employee (2) 53.4 49.3
+BBVA,2024,Work-Related Accidents,280,count,1.0,"358, 377, 396",WORK-RELATED INJURIES BY GENDER (BBVA GROUP),Number of occupational accidents with medical leave (excluding in itinere) 280 99 181
