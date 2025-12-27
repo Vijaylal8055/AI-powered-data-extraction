@@ -1,4 +1,4 @@
-🌿 AI-Powered ESG Data Extraction Platform
+🌿 AI-Powered ESG Data Extraction Engine
 
 An end-to-end AI-driven ESG & Sustainability data extraction system designed for CSRD-aligned reporting.
 The platform extracts structured ESG indicators from unstructured PDF sustainability reports and stores them in a traceable, auditable PostgreSQL database.
